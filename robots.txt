@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wiatieboo.uds.direct/sitemap.xml
